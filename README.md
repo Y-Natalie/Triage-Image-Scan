@@ -1,4 +1,5 @@
-Python script to read and extract files & folders within triage images
+Python script to read and extract NTDS and system32\config files and folders within triage images.
+
 The script can determine whether an image is the following:
 1. KAPE image
 2. CyLR image
