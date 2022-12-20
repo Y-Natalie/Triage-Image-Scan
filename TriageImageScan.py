@@ -1,3 +1,6 @@
+# Creator = Natalie Yuen
+# Determine the type of image and extract files from CyLR images
+
 import os, zipfile, shutil
 ziplist = []
 n = 1
